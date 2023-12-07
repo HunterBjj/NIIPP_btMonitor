@@ -5,7 +5,7 @@
 Для запуска приложение необходимо:
 - установить APK;
 - разрешить приложению использовать Bluetooth.
-![image](https://github.com/HunterBjj/NIIPP_btMonitor/assets/64096687/2fef75ee-b899-47d1-a2d4-785d954f93c3)
+![image](https://github.com/HunterBjj/NIIPP_btMonitor/assets/64096687/2596b240-7b3d-4008-bdc1-0c777de05127)
    <p align="center"> Рисунок 1 - Главная страница </p>
  
  На рисунке 1 присутвует кнопка вклюяение Bluetooth, а также крайняя кнопка для поиска устройств, поиск возможен только с включенным Bluetooth.
