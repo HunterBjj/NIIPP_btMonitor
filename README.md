@@ -15,7 +15,7 @@
 
    <p align="center"> Рисунок 2 - Поиск устройств </p>
 
-# <p align="center"> ![image](https://github.com/HunterBjj/NIIPP_btMonitor/assets/64096687/5ad73bfb-e413-4570-ac37-664baa1fc605) </p>
+# <p align="center"> ![image](https://github.com/HunterBjj/NIIPP_btMonitor/assets/64096687/af3e2522-f1df-4370-83c8-c144f615f5e1) </p>
 <p align="center"> Рисунок 3 - Добавление устройства </p>
   
    <p align="center"> Заключение </p>
